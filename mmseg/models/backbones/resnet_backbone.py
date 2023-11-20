@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# Author: Donny You(youansheng@gmail.com)
 
 import torch.nn as nn
 from mmseg.models.backbones.resnet_models import *
