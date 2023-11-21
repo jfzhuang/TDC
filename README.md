@@ -1,5 +1,5 @@
 # TDC
-This repository is the implementation of "Infer from What You Have Seen Before: Temporally-dependent Classifier for Semi-supervised Video Segmentation" (unreviewed by CVPR 2024). It is designed for semi-supervised video semantic segmentation task.
+This repository is the implementation of "Infer from What You Have Seen Before: Temporally-dependent Classifier for Semi-supervised Video Segmentation" (under reviewed by CVPR 2024). It is designed for semi-supervised video semantic segmentation task.
 
 ## Install & Requirements
 The code has been tested on pytorch=1.8.2 and python3.8.
