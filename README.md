@@ -46,3 +46,6 @@ For example, train image segmentation model on 2 GPUs. Checkpoints would be save
 cd ./TDC/exp/TDC_30_res18/scripts
 bash train.sh
 ````
+
+## Stage Two Training of Accel
+Please refer to [IFR](https://github.com/jfzhuang/IFR) repo.
